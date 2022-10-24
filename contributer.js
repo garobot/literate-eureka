@@ -35,6 +35,10 @@
         {
             id: 9,
             name: "Shramana"
-        }
+        },
+        {
+            id: 10,
+            name: "Prerana"
+        },
     ]
 }
